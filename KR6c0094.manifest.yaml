@@ -21,11 +21,11 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6c0094_000.yaml, hash: 'sha256:8e5c5cffa47f7066a98e18f34eb35cb8dbd6d9573ecb2f75b5e483d949ed004c'}
+  - {seq: 0, filename: KR6c0094_000.yaml, hash: 'sha256:a24b61d1bbb2ebd5cecc7302d62bfc32bc83af9cbcaf2305abd4d8a18b432a06'}
   - {seq: 1, filename: KR6c0094_001.yaml, hash: 'sha256:d714df984eab6b3610757a70e0b403d2618789b93ad64142f73a247df42f9b79'}
   - {seq: 2, filename: KR6c0094_002.yaml, hash: 'sha256:485e7a787bcdb6bc0f0a9988dddf9b117f0ec837743e4dc02988c9302e49ac82'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6c0094_000.markers.yaml, hash: 'sha256:54c3dc488db3097f231de9efd9b38ad7d073406d7bfd0509e918c0ffc1bb866e'}
+  - {seq: 0, role: markers, filename: assets/KR6c0094_000.markers.yaml, hash: 'sha256:32e033143325b46eff13bcf2d2fb84027b2ccdd1ac030b17b7276f852bbabb9b'}
   - {seq: 1, role: markers, filename: assets/KR6c0094_001.markers.yaml, hash: 'sha256:95c670f32f99989e85d14cadf6e006779528d5d5bb11485f05b8a6077d1d7ebd'}
   - {seq: 2, role: markers, filename: assets/KR6c0094_002.markers.yaml, hash: 'sha256:0fdb4dbbe89c738e07fe373bf39ccf05b42652b3c10302806f5d293c81533756'}
 table_of_contents:
@@ -33,7 +33,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0094_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 506-A 金剛般若波羅蜜經注序
@@ -43,7 +43,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0094_X_000-mulu-2
     span:
-    - front
+    - body
     - 1150
     - 1150
   label: 金剛般若波羅蜜經注
@@ -69,7 +69,7 @@ table_of_contents:
   label: 金剛般若波羅蜜經下篇
   type: juan
   level: 1
-hash: sha256:605846751f107ead4ce042154e4091712991db6b0b3d8b3594a2bd90b5f208db
+hash: sha256:faa0b0d38a328f94aa0693decb9c3194c5a436a0f79c2bfc633efb79325d8188
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
